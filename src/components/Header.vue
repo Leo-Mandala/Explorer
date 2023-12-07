@@ -21,7 +21,7 @@
         </button>
       </div>
       <div class="hidden lg:flex space-x-4">
-        <router-link to="/about" class="text-white">À propos</router-link>
+        <!-- <router-link to="/about" class="text-white">À propos</router-link> -->
         <router-link to="/skills" class="text-white">Compétences</router-link>
         <router-link to="/projects" class="text-white">Projets</router-link>
         <router-link to="/contact" class="text-white">Contact</router-link>

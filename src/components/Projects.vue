@@ -12,7 +12,7 @@
         </div>
       </div>
 
-      <div class="bg-green-300 p-4 rounded-md relative justify-between bg-opacity-50">
+      <div class="bg-green-300 p-4 rounded-md relative justify-between bg-opacity-70">
         <a class="text-lg font-semibold mb-2" href="https://leo-mandala.github.io/ToDos/">Taches à Faire</a>
       <!--  <img src="src\assets\Screen.png" alt="Portfolio Preview" class="w-full h-20 object-cover mb-2 rounded-md"> -->
         <p>Une application web simple pour gérer vos tâches quotidiennes.</p>
@@ -22,7 +22,7 @@
         </div>
       </div>
 
-      <div class="bg-green-300 p-4 rounded-md relative flex flex-col justify-between bg-opacity-50">
+      <div class="bg-green-300 p-4 rounded-md relative flex flex-col justify-between bg-opacity-100">
         <a class="text-lg font-semibold mb-2" href="https://leo-mandala.github.io/Cooking/">Blog Personnel</a>
         <p>Un blog où je partage mes idées et expériences culinaires (plus ou moins réussi).</p>
         <div class=" flex flex-row  relative">
@@ -32,7 +32,7 @@
         </div>
       </div>
 
-      <div class="bg-green-300 p-4 rounded-md relative flex flex-col justify-between bg-opacity-50">
+      <div class="bg-blue-300 p-4 rounded-md relative flex flex-col justify-between bg-opacity-50">
         <a class="text-lg font-semibold mb-2" href="https://leo-mandala.github.io/Anime/">Application de recherche anime</a>
         <p>Un site qui permet de chercher et de vérifier si son animé préféré est disponible sur Crunchyroll.</p>
         <div class=" flex flex-row  relative">
@@ -41,7 +41,7 @@
         <div class="self-end mr-2 mt-2 bg-indigo-500 rounded-full text-white py-1 px-2 text-xs font-semibold">API</div>
         </div>
       </div>
-      <div class="bg-green-300 p-4 rounded-md relative flex flex-col justify-between bg-opacity-50">
+      <div class="bg-blue-300 p-4 rounded-md relative flex flex-col justify-between bg-opacity-70">
 
         <a class="text-lg font-semibold mb-2" href="https://leo-mandala.github.io/Search/">Git Search</a>
         <p>Application permettant de chercher et regarder les repositories des utilisateurs de Github.</p>
@@ -50,7 +50,7 @@
          <div class="self-end mr-2 mt-2 bg-indigo-500 rounded-full text-white py-1 px-2 text-xs font-semibold">TailwindCSS</div>
         </div>
       </div>
-      <div class="bg-green-300 p-4 rounded-md relative flex flex-col justify-between bg-opacity-50">
+      <div class="bg-blue-300 p-4 rounded-md relative flex flex-col justify-between bg-opacity-100">
 
         <a class="text-lg font-semibold mb-2" href="https://leo-mandala.github.io/ChatApp/">Chat App</a>
         <p>Application de chat simple permettant de discuter en petit comité.</p>
